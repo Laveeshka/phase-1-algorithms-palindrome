@@ -12,6 +12,10 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
+*/
+
+/*
+  Add written explanation of your solution here
   Convert the string into an array
   Iterate over the string array until halfway
   Compare two indices: index i that starts at 0 and index j that starts at the last index
@@ -20,10 +24,6 @@ function isPalindrome(word) {
   Match element at index i with element at index j
   return false as soon as there is not a match
   Stop comparing when i = j and return true if the elements match
-*/
-
-/*
-  Add written explanation of your solution here
 */
 
 // You can run `node index.js` to view these console logs
